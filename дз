@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+ <html>
+  <head>
+  <meta charset="utf-8">
+   <title>homework</title>
+  </head>
+  <body>
+  <table border="1" width="100%" cellpadding="5">
+   <caption><strong>какая-то очень огромная таблица</strong></caption>
+   <thead>
+    <tr>
+     <td colspan="2">ячейка</td>
+     <td rowspan="4">ячейка</td>
+     <td>ячейка</td>
+     <td>ячейка</td>
+     <td>ячейка</td>
+     <td>ячейка</td>
+     <td>ячейка</td>
+     <td>ячейка</td>
+     <td>ячейка</td>
+    
+     </tr>
+   </thead>
+     <tr>
+       <td>ячейка</td>
+       <td>ячейка</td>
+       <td>ячейка</td>
+       <td>ячейка</td>
+       <td>ячейка</td>
+       <td>ячейка</td>
+       <td>ячейка</td>
+       <td>ячейка</td>
+       <td>ячейка</td>
+       <td>ячейка</td>
+     </tr>
+     <tr>
+       <td>ячейка</td>
+       <td>ячейка</td>
+       <td>ячейка</td>
+       <td>ячейка</td>
+       <td>ячейка</td>
+       <td>ячейка</td>
+       <td>ячейка</td>
+       <td>ячейка</td>
+       <td>ячейка</td>
+       <td>ячейка</td>
+     </tr>
+     <tr>
+       <td>ячейка</td>
+       <td>ячейка</td>
+       <td>ячейка</td>
+       <td>ячейка</td>
+       <td>ячейка</td>
+       <td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+</tr>
+<tr>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+</tr>
+<tr>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+</tr>
+<tr>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+</tr>
+<tr>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+</tr>
+<tr>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+</tr>
+<tr>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+<td>ячейка</td>
+</tr>
+</table>
+
+<form action="handler.php">
+	<p><b>Кто топчик?</b></p>
+	<p><input type="checkbox" id="check1"><label for="check1">я топ</label><br>
+	   <input type="checkbox" id="check2"><label for="check2">не этот вариант</label><br>
+	   <input type="checkbox" id="check3"><label for="check3">тоже не тот</label></br>
+	   <input type="checkbox" id="check4"><label for="check4">просто вернись к первому варику</label></p>
+	   </form>
+ </body>
+</html
