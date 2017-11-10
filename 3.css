@@ -1,0 +1,58 @@
+body {
+ font-family: Roboto
+ color: #222222;
+ }
+
+h1 {
+ border-bottom: 2px solid #aaaaaa;
+ } 
+
+h2 {
+ border-bottom: 1px solid #aaaaaa;
+ font-size: 24px;
+ font-weight: 500;
+ }
+
+h3 {
+ font-size: 21px;
+ font-weight: 600;
+ }
+
+h4 {
+ font-size: 1.1rem;
+ font-weight: 600;
+ }
+
+ul {
+     margin-bottom: 15px;
+     margin-top: 15px;
+     margin-right: 40px;
+     margin-left: 40px;
+     padding: 15px;
+     width: 250px;
+     background-color: #eeeeee;
+     border-radius: 3px;
+     border: 1px solid #dddddd
+  }
+  .a1 {
+  font-weight: 500;
+  }
+
+ img {
+ 	width: 100%;
+ 	border-radius: 3px;
+ }
+
+p {
+	text-align: justify;
+	text-indent: 40px;
+}
+ blockquote {
+ 	padding: 15px;
+ 	font-style: italic;
+ 	background-color: #eeeeee;
+ 	border-radius: 3px;
+ 	border: 1px solid #dddddd;
+ }
+
+
